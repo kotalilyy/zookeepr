@@ -10,6 +10,7 @@
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Credits](#credits)
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
@@ -28,6 +29,12 @@ npm i express
 ``` 
 
 ## Usage 
+
+## Credits
+
+[Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+
+[Express Documentaition](http://expressjs.com/en/api.html)
 
 ## License  
 
