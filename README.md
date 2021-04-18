@@ -46,6 +46,10 @@ Create a pull request to contribute!
 
 ## Tests
 
+```bash
+npm start
+``` 
+
 ## Questions
 
 Email me at kotalilyy@gmail.com with any questions.
