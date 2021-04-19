@@ -32,10 +32,7 @@ npm i express
 
 ## Usage 
 
-![zookeepr](https://user-images.githubusercontent.com/77229281/115228128-ffccf600-a0d6-11eb-9a0c-6bbc2c8927be.PNG)
-
-![zookeeper3](https://user-images.githubusercontent.com/77229281/115228137-0196b980-a0d7-11eb-807a-649fefc02283.png)
-
+![zookeepr](https://user-images.githubusercontent.com/77229281/115241346-55f56580-a0e6-11eb-8dee-dbebed905aea.PNG)
 
 ## Credits
 
