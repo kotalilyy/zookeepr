@@ -4,6 +4,8 @@
 
 ## Description
 
+I developed a back-end web server for a Zoo's online catalog. It houses the Zoo's data so that animal enthusiasts and zookeepers can access it from any location without downloading it.
+
 ## Table of Contents 
 
   - [Description](#description)
@@ -30,13 +32,18 @@ npm i express
 
 ## Usage 
 
-![zookeepr](https://user-images.githubusercontent.com/77229281/115169013-7a1f5b00-a082-11eb-9a62-099a3dc97878.PNG)
+![zookeepr](https://user-images.githubusercontent.com/77229281/115228128-ffccf600-a0d6-11eb-9a0c-6bbc2c8927be.PNG)
+
+![zookeeper3](https://user-images.githubusercontent.com/77229281/115228137-0196b980-a0d7-11eb-807a-649fefc02283.png)
+
 
 ## Credits
 
 [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 
-[Express Documentaition](http://expressjs.com/en/api.html)
+[Express Documentation](http://expressjs.com/en/api.html)
+
+[Insomnia Documentation](https://support.insomnia.rest/)
 
 ## License  
 
@@ -50,6 +57,10 @@ Create a pull request to contribute!
 
 ```bash
 npm start
+``` 
+
+```bash
+npm test
 ``` 
 
 ## Questions
