@@ -2,16 +2,18 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Description
+
+I developed a back-end web server for a Zoo's online catalog. 
+
 ## License  
 
-This project is licensed under [MIT](https://opensource.org/licenses/MIT). 
-
+[MIT](https://opensource.org/licenses/MIT)
 
 ## Contributions
 
-Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Questions
 
-<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+Email me at kotalilyy@gmail.com 
